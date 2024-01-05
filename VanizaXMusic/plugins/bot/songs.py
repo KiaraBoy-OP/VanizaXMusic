@@ -237,10 +237,7 @@ async def song_download_cb(client, callback_query: CallbackQuery, _) :
             supports_streaming=True,
         )
         await mystic.edit_text(_["song_11"])
-        await app.send_chat_action(
-            chat_id=callback_query.message.chat.id,
-            action="upload_video",
-        )
+
         try:
             await callback_query.edit_message_media(media=med)
         except Exception as e:
