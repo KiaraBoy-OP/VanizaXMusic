@@ -7,7 +7,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from VanizaXMusic import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from VanizaXMusic.core.call import Anony
+from VanizaXMusic.core.call import Hotty
 from VanizaXMusic.utils import seconds_to_min, time_to_seconds
 from VanizaXMusic.utils.channelplay import get_channeplayCB
 from VanizaXMusic.utils.decorators.language import languageCB
