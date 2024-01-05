@@ -1,7 +1,6 @@
 import asyncio
 import os
 import re
-import subprocess
 from typing import Union
 
 import yt_dlp
@@ -11,6 +10,7 @@ from youtubesearchpython.__future__ import VideosSearch
 
 from VanizaXMusic.utils.database import is_on_off
 from VanizaXMusic.utils.formatters import time_to_seconds
+
 
 async def shell_cmd(cmd):
     proc = await asyncio.create_subprocess_shell(
@@ -25,6 +25,7 @@ async def shell_cmd(cmd):
         else:
             return errorz.decode("utf-8")
     return out.decode("utf-8")
+
 
 class YouTubeAPI:
     def __init__(self):
@@ -242,7 +243,7 @@ class YouTubeAPI:
 
         def audio_dl():
             ydl_optssx = {
-                "format": "bestaudio[ext=m4a]",
+                "format": "bestaudio/best",
                 "outtmpl": "downloads/%(id)s.%(ext)s",
                 "geo_bypass": True,
                 "nocheckcertificate": True,
