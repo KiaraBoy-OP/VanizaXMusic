@@ -29,7 +29,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [✔] ˹ᴠᴀɴɪᴢᴀ ꭙ ᴍᴜsɪᴄ˼ ♪](https://t.me/VanizaXmusicBot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ **<a href="https://t.me/VanizaXmusicBot">[✔] ˹ᴠᴀɴɪᴢᴀ ꭙ ᴍᴜsɪᴄ˼ ♪</a>
 
 
 
