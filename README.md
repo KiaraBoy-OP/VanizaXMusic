@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/github/stars/CoderXPiyush/ValenciaXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/BrandrdXMusic/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/BrandrdXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/KiaraBoy-OP/stargazers"><img src="https://img.shields.io/github/stars/KiaraBoy-OP/VanizaXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/KiaraBoy-OP/VanizaXMusic/network/members"> <img src="https://img.shields.io/github/forks/KiaraBoy-OP/VanizaXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KiaraBoy-OP/VanizaXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/BrandrdXMusic/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BrandrdXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/KiaraBoy-OP/VanizaXMusic/commits/KiaraBoy-OP"> <img src="https://img.shields.io/github/last-commit/KiaraBoy-OP/VanizaXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
